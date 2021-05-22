@@ -24,7 +24,7 @@ console.log("working");
 //let marker = L.marker([34.0522, -118.2437]).addTo(map);
 
 // Create the map object with a center and zoom level.
-let map = L.map('mapid').setView([34.0522, -118.2437], 14);
+let map = L.map('mapid').setView([35.4676, -97.5164], 5);
 
 // //  Add a circle marker to the map for Los Angeles, California.
 // L.circleMarker([34.0522, -118.2437], {
@@ -50,18 +50,7 @@ cityData.forEach(function(city) {
 });
 
 
-// Skill drill 13.4.2
 
-// cityData.forEach(function(city) {
-//     console.log(city)
-//     L.circleMarker(city.location, {
-//         radius: city.population -200000, 
-//         color: 'orange',
-//         fillColor: '#f03'
-//     })
-//     .bindPopup("<h2>" + city.city + ", " + city.state + "</h2> <hr> <h3>Population " + city.population + "</h3>")
-//     .addTo(map);
-// });
 
 
 // We create the tile layer that will be the background of our map.
