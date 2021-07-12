@@ -5,7 +5,8 @@ A non-profit organization that provides data-driven storytelling on disasters ar
 
 ### Tools
 * JavaScript
-* geoJSON API
+* geoJSON
+* D3
 * MapBox/Leaflet
 * HTML & CSS
 
@@ -19,10 +20,3 @@ In the interactive map, there are three different layers - all the worldwide ear
 
 ### Major Earthquakes in past 7 days
 <img width="1439" alt="Screen Shot 2021-05-30 at 6 32 21 PM" src="https://user-images.githubusercontent.com/69849998/120122271-c081d280-c175-11eb-89e3-4e8a9d9bb516.png">
-
-
-## Resources
-
-* MapBox APIs
-* Leaflet
-* D3
