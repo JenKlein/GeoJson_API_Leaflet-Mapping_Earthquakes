@@ -1,7 +1,13 @@
 # Mapping_Earthquakes
 
 ## Overview
-A non-profit organization that provides data-driven storytelling on disasters around the world has provided the opportunity to work with their data to build interative visualizations. The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.JavaScript and the D3.js library were used to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. Leaflet library was used to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
+A non-profit organization that provides data-driven storytelling on disasters around the world has provided the opportunity to work with their data to build interative visualizations. The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days. JavaScript and the D3.js library were used to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. Leaflet library was used to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
+
+### Tools
+* JavaScript
+* geoJSON API
+* MapBox/Leaflet
+* HTML & CSS
 
 In the interactive map, there are three different layers - all the worldwide earthquakes, tectonic plates and major earthquakes. The photos below show the different map layers. As well, are three different map styles/view - streets, satellite and outdoors. 
 
